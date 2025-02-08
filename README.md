@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirajul Islam</h1>
-<h3 align="center">A passionate frontend developer from Dhaka Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirajul2310&label=Profile%20views&color=0e75b6&style=flat" alt="mirajul2310" /> </p>
 
@@ -13,6 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/mirajul2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirajul2310" height="30" width="40" /></a>
 <a href="https://fb.com/mirajul2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mirajul2310" height="30" width="40" /></a>
+<a href="https://instagram.com/omi_choto_bacca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omi_choto_bacca" height="30" width="40" /></a>
+<a href="https://dribbble.com/mirajul2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mirajul2310" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
